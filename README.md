@@ -1,2 +1,2 @@
-# test_repo
-for git test only. -____-
+# Testing
+for git test only. 🧪
