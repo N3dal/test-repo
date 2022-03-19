@@ -2,4 +2,4 @@
 # 🧪
 for git test only. 🧪
 **python coding sample**:
-> ```print("hi from github repo")```
+```print("hi from github repo")```
