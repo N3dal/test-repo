@@ -1,5 +1,5 @@
 # Testing
 # 🧪
-for git test only. 🧪
-**python coding sample**\n:
-```print("hi from github repo")```
+for git test only.
+
+![zoro](/pictures/gifs/zoro_1.gif)
