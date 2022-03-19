@@ -2,4 +2,4 @@
 # 🧪
 for git test only.
 
-![zoro](/pictures/gifs/zoro_1.gif)
+![zoro](/pictures/gifs/zoro_2.gif)
